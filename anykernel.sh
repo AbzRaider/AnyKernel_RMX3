@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Anubis Kernel by Ak
+kernel.string=Azrael Kernel by AbzRaider
 do.devicecheck=1
 do.modules=0
 do.systemless=1
